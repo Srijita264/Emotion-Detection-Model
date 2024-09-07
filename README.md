@@ -1,7 +1,7 @@
 
 1.  The First Model: Emotion Detection Using VGG-16/2 on the FER Dataset:
-2.  
- Architecture: The model is based on a modified or simplified version of the VGG-16 architecture, called VGG-16/2. VGG-16 is a popular deep learning convolutional neural network (CNN) architecture, commonly used for image classification tasks. It is known for using small (3x3) convolution filters and a deep architecture (16 layers) to extract features from images.
+
+Architecture: The model is based on a modified or simplified version of the VGG-16 architecture, called VGG-16/2. VGG-16 is a popular deep learning convolutional neural network (CNN) architecture, commonly used for image classification tasks. It is known for using small (3x3) convolution filters and a deep architecture (16 layers) to extract features from images.
 
 Modification (VGG-16/2): The "2" could imply a reduction in layers, making the model more lightweight, or using a modified version with fewer parameters, but still retaining the ability to extract features effectively.
 
@@ -22,8 +22,9 @@ Customer Feedback: In retail, customer service, or entertainment, detecting emot
 
 
 
-2. The Second Model: Eye Blink Detection Using VGG-16/2
-Architecture: This model also uses the VGG-16/2 architecture, which likely has the same structure or a slightly modified one from the first model.
+2. The Second Model: Eye Blink Detection Using VGG-16/2:
+ 
+Architecture: This model also uses the VGG-16/2 architecture.
 
 Task: The task here is detecting the blinking of eyes, a specialized form of image classification. It may involve tracking eye movements and detecting whether the eyes are open or closed in a given frame.
 
